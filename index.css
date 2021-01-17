@@ -1,7 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
+body {
+    overflow: hidden;
+}
 background-page {
   background-image: url("https://rkircess.sirv.com/Images/feat-1800x0-c-center.jpg");
   background-size:cover;
