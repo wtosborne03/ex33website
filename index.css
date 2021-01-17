@@ -55,7 +55,7 @@ background-page {
 }
 
 .btn-white::after {
-  background: #fff;
+  background: #f00;
 }
 
 .btn-animation-1:hover::after {
